@@ -1,0 +1,20 @@
+C:\MyFiles\Study\Simulation Models\Lab17\bin\Debug\Lab17.exe.config
+C:\MyFiles\Study\Simulation Models\Lab17\bin\Debug\Lab17.exe
+C:\MyFiles\Study\Simulation Models\Lab17\bin\Debug\Lab17.pdb
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.exe
+C:\MyFiles\Study\Simulation Models\Lab17\obj\Debug\Lab17.pdb
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\bin\Debug\Lab17.exe.config
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\bin\Debug\Lab17.exe
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\bin\Debug\Lab17.pdb
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.Form1.resources
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.exe
+C:\Users\mford\Desktop\Учеба\иммитационка\Lab17\obj\Debug\Lab17.pdb
